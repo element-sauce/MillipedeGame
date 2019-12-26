@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Score
+comment0.text=\n\ Subclass\ of\ Text\ designed\ to\ handle\ the\ score.\n\ \n\ @author\ Bill\ Xiang\n\ @version\ 2.0\n
+comment1.params=text\ size\ foreground\ background\ lock
+comment1.target=Score(java.lang.String,\ int,\ greenfoot.Color,\ greenfoot.Color,\ int)
+comment2.params=score
+comment2.target=Score(int)
+comment3.params=
+comment3.target=int\ getScore()
+comment4.params=score
+comment4.target=void\ setScore(int)
+comment5.params=
+comment5.target=void\ act()
+numComments=6

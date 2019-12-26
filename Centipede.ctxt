@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Centipede
+comment0.text=\n\ Centipede,\ the\ enemy\ insect\ that\ moves\ toward\ the\ player,\ navigating\ through\n\ mushrooms\ to\ do\ so.\n\ \n\ Centipedes\ are\ vulnerable\ to\ lasers.\n\ \n\ Every\ level,\ the\ color\ scheme\ of\ the\ centipede\ changes.\n\ \n\ Number\ of\ centipedes\ spawned\ and\ the\ speed\ of\ the\ centipede\n\ may\ vary\ among\ different\ levels.\n\ \n\ @author\ Bill\ Xiang\n\ @version\ 2.0\n
+comment1.params=
+comment1.target=Centipede()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=int\ getScoreValue()
+comment4.params=scoreValue
+comment4.target=void\ setScoreValue(int)
+numComments=5
