@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MillipedeMushroom
+comment0.text=\n\ Extends\ the\ Mushroom\ class.\n\ Overrides\ the\ specialEndBehavior\ method\ and\ the\ changeImage\ method.\n\ \n\ When\ destroyed,\ the\ MillipedeMushroom\ spawns\ a\ millipede.\n\ See\ the\ Millipede\ class\ for\ a\ description\ of\ the\ millipede.\n\ \n\ @author\ Bill\ Xiang\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=MillipedeMushroom()
+comment2.params=
+comment2.target=void\ specialEndBehavior()
+comment3.params=
+comment3.target=void\ specialActiveBehavior()
+comment4.params=
+comment4.target=void\ changeImage()
+numComments=5

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Millipede
+comment0.text=\n\ Millipede,\ the\ ally\ insect\ that\ moves\ away\ the\ player,\ destroying\ a\ mushroom\n\ ,\ and\ killing\ a\ centipede.\n\ \n\ It\ is\ unaffected\ by\ friendly\ laser\ fire.\n\ \n\ It\ dies\ after\ impact\ with\ a\ mushroom\ or\ a\ centipede.\n\ \n\ @author\ Bill\ Xiang\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=Millipede()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CentipedeMushroom
+comment0.text=\n\ Extends\ the\ Mushroom\ class.\n\ Overrides\ the\ specialEndBehavior\ method\ and\ the\ changeImage\ method.\n\ \n\ When\ destroyed,\ the\ CentipedeMushroom\ spawns\ a\ centipede.\n\ \n\ @author\ Bill\ Xiang\n\ @version\ 2.0\n
+comment1.params=
+comment1.target=CentipedeMushroom()
+comment1.text=\ \ This\ mushroom\ gives\ off\ a\ different\ point\ value\ than\ the\ base\ point\ \nvalue\ of\ the\ normal\ mushroom
+comment2.params=
+comment2.target=void\ specialEndBehavior()
+comment3.params=
+comment3.target=void\ specialActiveBehavior()
+comment3.text=\ Overrides\ specialActiveBehavior\ to\ cancel\ out\ the\ logic\ that\ was\ written\ for\ the\ normal\ mushroom\n\ class\ in\ this\ method.\n
+comment4.params=
+comment4.target=void\ changeImage()
+comment4.text=\ Overrides\ changeImage\ to\ use\ images\ meant\ for\ this\ mushroom.\n\ \n
+numComments=5

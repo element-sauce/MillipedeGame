@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\n\ This\ is\ my\ World\ class\ that\ extends\ World.\ \n\ \n\ I\ put\ a\ few\ comments\ in\ all\ the\ classes\ so\ that\ the\ reader\ will\ have\ an\ \n\ easier\ time\ understanding\ my\ code.\n\ \n\ @author\ Bill\ Xiang\n\ @version\ 2.0\n
+comment1.params=
+comment1.target=MyWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=int\ getState()
+comment3.text=Several\ getter\ and\ setter\ methods
+comment4.params=stateNum
+comment4.target=void\ setState(int)
+comment5.params=
+comment5.target=int\ getLevel()
+comment6.params=level
+comment6.target=void\ setLevel(int)
+comment7.params=
+comment7.target=int\ getTime()
+comment8.params=time
+comment8.target=void\ setTime(int)
+numComments=9

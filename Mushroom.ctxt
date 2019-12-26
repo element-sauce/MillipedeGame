@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Mushroom
+comment0.text=\n\ Base\ Mushroom\ class,\ class\ for\ default\ mushroom\n\ \n\ @author\ Bill\ Xiang\ \n\ @version\ 2.0\n
+comment1.params=
+comment1.target=Mushroom()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ onHit()
+comment4.params=
+comment4.target=void\ specialActiveBehavior()
+comment5.params=
+comment5.target=void\ specialHitBehavior()
+comment6.params=
+comment6.target=void\ specialEndBehavior()
+comment7.params=
+comment7.target=void\ changeImage()
+comment8.params=
+comment8.target=int\ getScoreValue()
+comment9.params=scoreValue
+comment9.target=void\ setScoreValue(int)
+numComments=10
