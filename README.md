@@ -7,3 +7,6 @@ Before the start of every level, more mushrooms spawn on the field, and a centip
 The game progressively gets harder as more mushrooms spawn and the speed of the centipede can get faster.
 
 Annotations have been made to each Java class explaining its use and design.
+
+![Title Page](screenshot1.png)
+![Gameplay Level 2](screenshot2.png)
